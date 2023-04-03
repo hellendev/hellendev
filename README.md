@@ -10,10 +10,10 @@
 
 ### Algumas informações:
 
-<div align="center">
+<div>
 <a href="https://github.com/hellendev">
-<img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hellendev&theme=2077"/>
-<img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hellendev&theme=2077"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?hellendev&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?hellendev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ### Tecnologias e ferramentas:
