@@ -6,7 +6,7 @@
 
 - 🚀 Tenho como objetivo me tornar uma desenvolvedora Front-End.
 
-- 🌱 Atualmente estou me aprofundando na linguagem: <b>HTML</b> <b>CSS</b> <b>JAVASCRIPT</b> 
+- 🌱 Atualmente estou me aprofundando na linguagem: <b>HTML</b>, <b>CSS</b> e <b>JAVASCRIPT</b> 
 
 ### Algumas informações:
 
